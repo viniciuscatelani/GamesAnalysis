@@ -64,10 +64,6 @@ Este repositório contém um notebook Jupyter ("GamesAnalysis.ipynb") que realiz
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests, abrir issues ou sugerir melhorias.
 
-### 📄 Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-
 ### 📫 Contato
 
 Dúvidas ou sugestões? Entre em contato pelo e-mail: [viniciuscatelani@gmail.com](viniciuscatelani@gmail.com)
