@@ -52,6 +52,13 @@ Este repositório contém um notebook Jupyter ("GamesAnalysis.ipynb") que realiz
    jupyter notebook GamesAnalysis.ipynb
    ```
 
+###📊 Exibição dos Gráficos no GitHub
+
+Infelizmente os gráficos, por terem sido gerados utilizando Plotly,
+não estão sendo exibidos direto no GitHub, então recomendo que 
+o código seja executado localmente, porém estou aberto a sugestões
+de melhoria para melhor proveito e entendimento do projeto.
+
 ### 📊 Exemplos de Análises Incluídas
 
 * Distribuição de gêneros e plataformas ao longo dos anos.
