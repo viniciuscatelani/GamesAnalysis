@@ -24,10 +24,8 @@ Este repositório contém um notebook Jupyter ("GamesAnalysis.ipynb") que realiz
 * Bibliotecas necessárias:
 
   * pandas
-  * matplotlib
-  * seaborn
   * numpy
-  * plotly (se necessário)
+  * plotly
 
 ### 🚀 Como Executar
 
